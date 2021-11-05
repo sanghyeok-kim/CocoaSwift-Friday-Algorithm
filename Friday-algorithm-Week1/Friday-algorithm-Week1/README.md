@@ -9,16 +9,22 @@
 ## 문제
 A + B
 - https://www.acmicpc.net/problem/1000
+
 A / B
 - https://www.acmicpc.net/problem/1008
+
 별 찍기 - 1
 - https://www.acmicpc.net/problem/2438
+
 음계
 - https://www.acmicpc.net/problem/2920
+
 OX퀴즈
 - https://www.acmicpc.net/problem/8958
+
 아스키코드
 - https://www.acmicpc.net/problem/11654
+
 
 ---
 (참조)
@@ -27,7 +33,7 @@ OX퀴즈
     - https://shark-sea.kr/entry/Swift-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98-Map-Filter-Reduce-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0
     - https://donggyu9410.medium.com/swift-%ED%95%84%EC%88%98-%EB%AC%B8%EB%B2%95-map-filter-reduce-compactmap-9c4c903804a8
     
-    - "HELLO" -> ["H", "E", "L", "L", "O"]
+    - "HELLO" -> ["H", "E", "L", "L", "O"] : map 사용
         - https://stackoverflow.com/questions/33187491/split-a-string-into-letters
         
 
