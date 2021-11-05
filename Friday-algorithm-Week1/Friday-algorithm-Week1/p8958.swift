@@ -42,5 +42,5 @@ func p8958() {
         }
         print(total)
     }
-    
+
 }
