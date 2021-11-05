@@ -15,7 +15,7 @@ func p2438() {
     }
     
     for i in 0..<num {
-        for _ in 0..<i {
+        for _ in 0...i {
             print("*", terminator: "")
         }
         print("")
