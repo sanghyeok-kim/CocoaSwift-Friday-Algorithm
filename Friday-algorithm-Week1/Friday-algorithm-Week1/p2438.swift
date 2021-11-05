@@ -5,8 +5,6 @@
 //  Created by 김상혁 on 2021/11/05.
 //
 
-import Foundation
-
 func p2438() {
     let input = readLine() ?? ""
     
