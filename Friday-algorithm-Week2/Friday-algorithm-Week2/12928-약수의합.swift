@@ -21,4 +21,3 @@ func solution(_ n: Int) -> Int {
     }
     return sum
 }
-

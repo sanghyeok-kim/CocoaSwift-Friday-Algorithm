@@ -47,4 +47,3 @@ func popDoll(board: inout [[Int]], col: Int) -> Int {
     //꺼낼 인형이 없을 경우
     return -1
 }
-
