@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		1E1304AF2734BEE6006D0C0C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1304AE2734BEE6006D0C0C /* main.swift */; };
 		1E1304B62734D724006D0C0C /* 1000-두수더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1304B52734D724006D0C0C /* 1000-두수더하기.swift */; };
-		1E1304B82734D97A006D0C0C /* 1008두수나누기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1304B72734D97A006D0C0C /* 1008두수나누기.swift */; };
+		1E1304B82734D97A006D0C0C /* 1008-두수나누기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1304B72734D97A006D0C0C /* 1008-두수나누기.swift */; };
 		1E1304BA2734DA52006D0C0C /* 2438-별찍기-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1304B92734DA52006D0C0C /* 2438-별찍기-1.swift */; };
 		1E1304BC2734DC6D006D0C0C /* 2920-음계.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1304BB2734DC6D006D0C0C /* 2920-음계.swift */; };
 		1E1304BE2734FB4D006D0C0C /* 8958-OX퀴즈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1304BD2734FB4D006D0C0C /* 8958-OX퀴즈.swift */; };
@@ -32,7 +32,7 @@
 		1E1304AB2734BEE6006D0C0C /* Friday-algorithm-Week1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Friday-algorithm-Week1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E1304AE2734BEE6006D0C0C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1E1304B52734D724006D0C0C /* 1000-두수더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1000-두수더하기.swift"; sourceTree = "<group>"; };
-		1E1304B72734D97A006D0C0C /* 1008두수나누기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1008두수나누기.swift"; sourceTree = "<group>"; };
+		1E1304B72734D97A006D0C0C /* 1008-두수나누기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1008-두수나누기.swift"; sourceTree = "<group>"; };
 		1E1304B92734DA52006D0C0C /* 2438-별찍기-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2438-별찍기-1.swift"; sourceTree = "<group>"; };
 		1E1304BB2734DC6D006D0C0C /* 2920-음계.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2920-음계.swift"; sourceTree = "<group>"; };
 		1E1304BD2734FB4D006D0C0C /* 8958-OX퀴즈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8958-OX퀴즈.swift"; sourceTree = "<group>"; };
@@ -75,7 +75,7 @@
 				1E1304BF27350B8E006D0C0C /* 11654-아스키코드.swift */,
 				1E1304B92734DA52006D0C0C /* 2438-별찍기-1.swift */,
 				1E1304B52734D724006D0C0C /* 1000-두수더하기.swift */,
-				1E1304B72734D97A006D0C0C /* 1008두수나누기.swift */,
+				1E1304B72734D97A006D0C0C /* 1008-두수나누기.swift */,
 			);
 			path = "Friday-algorithm-Week1";
 			sourceTree = "<group>";
@@ -140,7 +140,7 @@
 				1E1304BE2734FB4D006D0C0C /* 8958-OX퀴즈.swift in Sources */,
 				1E1304AF2734BEE6006D0C0C /* main.swift in Sources */,
 				1E1304B62734D724006D0C0C /* 1000-두수더하기.swift in Sources */,
-				1E1304B82734D97A006D0C0C /* 1008두수나누기.swift in Sources */,
+				1E1304B82734D97A006D0C0C /* 1008-두수나누기.swift in Sources */,
 				1E1304BA2734DA52006D0C0C /* 2438-별찍기-1.swift in Sources */,
 				1E1304C027350B8E006D0C0C /* 11654-아스키코드.swift in Sources */,
 				1E1304BC2734DC6D006D0C0C /* 2920-음계.swift in Sources */,
