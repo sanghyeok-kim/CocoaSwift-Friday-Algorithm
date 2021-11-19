@@ -11,6 +11,10 @@ func inputBigNumbers() -> [Int64] {
     let numberCount = Int64(readLine()!)!
     let eachNumbers: [Int64] = readLine()!.split(separator: " ").map { Int64($0)! }
     
+    if eachNumbers.count > numberCount {
+        return []
+    }
+    
     return eachNumbers
 }
 
@@ -22,6 +26,5 @@ func aVeryBigSum(arr: [Int64]) -> Int64 {
         result += arr[i]
     }
     
-    print(result)
     return result
 }

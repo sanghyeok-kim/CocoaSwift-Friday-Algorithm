@@ -23,8 +23,8 @@ import Foundation
 
 
 //03-VeryBigSum
-//let numbers = inputBigNumbers()
-//aVeryBigSum(arr: numbers)
+let numbers = inputBigNumbers()
+print(aVeryBigSum(arr: numbers))
 
 
 //04-TimeConversion
@@ -33,6 +33,6 @@ import Foundation
 
 
 //05-Kangaroo
-let inputs = readLine()!.split(separator: " ").map { Int($0)! }
-print(kangaroo(x1: inputs[0], v1: inputs[1], x2: inputs[2], v2: inputs[3]))
+//let inputs = readLine()!.split(separator: " ").map { Int($0)! }
+//print(kangaroo(x1: inputs[0], v1: inputs[1], x2: inputs[2], v2: inputs[3]))
 
