@@ -21,7 +21,6 @@ func timeConversion(s: String) -> String {
             format12Time[0] = "00"
     }
     
-    
     let result = format12Time.map { String($0) }.joined(separator: ":")
     return result
 }
