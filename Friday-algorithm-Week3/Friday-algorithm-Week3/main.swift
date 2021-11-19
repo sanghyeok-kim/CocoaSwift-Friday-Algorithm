@@ -8,4 +8,10 @@
 import Foundation
 
 //00-SolveMeFirst
-//solveMeFirst()
+print("a = ", terminator: "")
+let inputA = Int(readLine()!)!
+
+print("b = ", terminator: "")
+let inputB = Int(readLine()!)!
+
+solveMeFirst(a: inputA, b: inputB)
