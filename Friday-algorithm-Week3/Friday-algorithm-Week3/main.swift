@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+//00-SolveMeFirst
+solveMeFirst()

@@ -6,3 +6,15 @@
 //
 
 import Foundation
+
+func solveMeFirst() {
+    print("a = ", terminator: "")
+    let inputA = Int(readLine()!)!
+    
+    print("b = ", terminator: "")
+    let inputB = Int(readLine()!)!
+    
+    
+    let result = inputA + inputB
+    print(result)
+}
