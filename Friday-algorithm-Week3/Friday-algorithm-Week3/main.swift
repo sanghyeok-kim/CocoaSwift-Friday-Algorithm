@@ -16,3 +16,8 @@ import Foundation
 //let scores = inputScores()
 //gradingStudents(grades: scores)
 
+
+//02-CompareTriplets
+let (aliceRatings, bobRatings) = inputTriplets()
+compareTriplets(a: aliceRatings, b: bobRatings)
+
