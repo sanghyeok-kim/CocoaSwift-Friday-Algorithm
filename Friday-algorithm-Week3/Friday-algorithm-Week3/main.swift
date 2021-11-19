@@ -8,10 +8,11 @@
 import Foundation
 
 //00-SolveMeFirst
-print("a = ", terminator: "")
-let inputA = Int(readLine()!)!
+//let (inputA, inputB) = inputTwoNumbers()
+//solveMeFirst(a: inputA, b: inputB)
 
-print("b = ", terminator: "")
-let inputB = Int(readLine()!)!
 
-solveMeFirst(a: inputA, b: inputB)
+//01-Grading
+//let scores = inputScores()
+//gradingStudents(grades: scores)
+
