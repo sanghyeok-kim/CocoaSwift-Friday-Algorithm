@@ -5,8 +5,6 @@
 //  Created by 김상혁 on 2021/11/19.
 //
 
-import Foundation
-
 func solveMeFirst() {
     print("a = ", terminator: "")
     let inputA = Int(readLine()!)!

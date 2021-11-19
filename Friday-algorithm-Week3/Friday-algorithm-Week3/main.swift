@@ -8,4 +8,4 @@
 import Foundation
 
 //00-SolveMeFirst
-solveMeFirst()
+//solveMeFirst()
