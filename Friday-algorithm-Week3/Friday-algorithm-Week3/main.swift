@@ -30,3 +30,9 @@ import Foundation
 //04-TimeConversion
 //let result = timeConversion(s: "12:02:42AM")
 //print(result)
+
+
+//05-Kangaroo
+let inputs = readLine()!.split(separator: " ").map { Int($0)! }
+print(kangaroo(x1: inputs[0], v1: inputs[1], x2: inputs[2], v2: inputs[3]))
+
