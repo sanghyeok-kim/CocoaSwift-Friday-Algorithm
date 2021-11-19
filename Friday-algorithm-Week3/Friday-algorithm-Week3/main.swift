@@ -23,6 +23,10 @@ import Foundation
 
 
 //03-VeryBigSum
-let numbers = inputBigNumbers()
-aVeryBigSum(arr: numbers)
+//let numbers = inputBigNumbers()
+//aVeryBigSum(arr: numbers)
 
+
+//04-TimeConversion
+//let result = timeConversion(s: "12:02:42AM")
+//print(result)
