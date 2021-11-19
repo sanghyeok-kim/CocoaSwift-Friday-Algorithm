@@ -18,6 +18,11 @@ import Foundation
 
 
 //02-CompareTriplets
-let (aliceRatings, bobRatings) = inputTriplets()
-compareTriplets(a: aliceRatings, b: bobRatings)
+//let (aliceRatings, bobRatings) = inputTriplets()
+//compareTriplets(a: aliceRatings, b: bobRatings)
+
+
+//03-VeryBigSum
+let numbers = inputBigNumbers()
+aVeryBigSum(arr: numbers)
 
