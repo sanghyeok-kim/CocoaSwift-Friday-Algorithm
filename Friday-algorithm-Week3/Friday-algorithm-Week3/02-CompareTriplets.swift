@@ -24,7 +24,6 @@ func compareTriplets(a: [Int], b: [Int]){
             bobScore += 1
         }
     }
-    
     let result: [Int] = [aliceScore, bobScore]
     print("\(result[0]) \(result[1])")
 }
