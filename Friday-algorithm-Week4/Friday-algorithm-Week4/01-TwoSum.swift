@@ -10,6 +10,7 @@ import Foundation
 class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         
+        //O(n^2)
         /*
         for i in 0..<nums.count {
             for j in (i + 1)..<nums.count {
@@ -21,6 +22,7 @@ class Solution {
         }
         */
         
+        //O(n)
         var complements = [Int:Int]()
 
         for i in 0..<nums.count {
