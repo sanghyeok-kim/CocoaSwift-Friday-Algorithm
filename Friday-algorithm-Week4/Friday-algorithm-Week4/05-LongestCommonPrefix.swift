@@ -6,3 +6,17 @@
 //
 
 import Foundation
+
+class Solution {
+    func longestCommonPrefix(_ strs: [String]) -> String {
+        let shortest = strs.min { $0.count < $1.count }!
+        var longest = shortest
+        
+        for str in strs {
+            while !str.hasPrefix(longest), longest.count > 0 {
+                longest.removeLast()
+            }
+        }
+        return longest
+    }
+}
