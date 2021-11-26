@@ -9,4 +9,4 @@ import Foundation
 
 
 let soluton1 = Solution()
-soluton1.twoSum([1, 3, 5], 8)
+soluton1.twoSum([1, 3, 5], 6)
