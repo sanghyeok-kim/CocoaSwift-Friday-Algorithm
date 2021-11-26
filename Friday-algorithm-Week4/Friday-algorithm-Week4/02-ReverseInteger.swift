@@ -7,8 +7,19 @@
 
 import Foundation
 
-class Solution {
+class Solution2 {
     func reverse(_ x: Int) -> Int {
-        
+        var strReversedX = String(x)
+
+        if strReversedX.first == "-" {
+            strReversedX =  String(strReversedX.dropFirst().reversed())
+            strReversedX.insert("-", at: strReversedX.startIndex)
+        }
+        else {
+            strReversedX =  String(strReversedX.reversed())
+        }
+
+        let result = Int32(strReversedX) ?? 0
+        return Int(result)
     }
 }
