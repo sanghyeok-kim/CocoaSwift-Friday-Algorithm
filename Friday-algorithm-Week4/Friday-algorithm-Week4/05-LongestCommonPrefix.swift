@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution5 {
     func longestCommonPrefix(_ strs: [String]) -> String {
         let shortest = strs.min { $0.count < $1.count }!
         var longest = shortest
