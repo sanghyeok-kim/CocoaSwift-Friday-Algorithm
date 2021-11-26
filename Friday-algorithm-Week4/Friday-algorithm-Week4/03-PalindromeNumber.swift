@@ -6,3 +6,15 @@
 //
 
 import Foundation
+
+class Solution3 {
+    func isPalindrome(_ x: Int) -> Bool {
+        let reversedStrX = String(String(x).reversed())
+        
+        guard let reversedInt = Int(reversedStrX) else {
+            return false
+        }
+        
+        return x == reversedInt
+    }
+}
