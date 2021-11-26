@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
 
+let soluton1 = Solution()
+soluton1.twoSum([1, 3, 5], 8)
